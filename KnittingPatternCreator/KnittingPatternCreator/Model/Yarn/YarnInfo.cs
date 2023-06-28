@@ -28,4 +28,10 @@ enum YarnMaterial
     alpaca,
     bamboo,
     mohair,
+    cashmere,
+    linen,
+    silk,
+    acrylic,
+    nylon,
+    rayon
 }

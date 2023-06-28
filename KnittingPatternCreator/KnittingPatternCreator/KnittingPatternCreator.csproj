@@ -52,4 +52,9 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Model\NewFolder1\" />
+	  <Folder Include="Model\NewFolder\NewFolder\" />
+	</ItemGroup>
+
 </Project>

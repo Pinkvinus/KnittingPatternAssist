@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KnittingPatternCreator.Model
+namespace KnittingPatternCreator.Model.Pattern.ShoulderPatterns
 {
-    class Class1
+    class SetInSleeve
     {
+
     }
 }
